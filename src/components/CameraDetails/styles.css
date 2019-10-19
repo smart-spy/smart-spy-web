@@ -1,0 +1,8 @@
+.camera-list {
+    overflow: scroll;
+    max-height: 52ch;
+}
+
+.camera-detail {
+    padding: 10px 20px 10px 10px;
+}
